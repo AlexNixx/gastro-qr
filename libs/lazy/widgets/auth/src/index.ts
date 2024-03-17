@@ -1,0 +1,1 @@
+export { AuthWidgetLazy } from './components';

@@ -1,0 +1,8 @@
+{
+  "name": "gastro-qr",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/gastro-qr/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}

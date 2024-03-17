@@ -1,0 +1,25 @@
+.registerForm {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100%;
+  flex: 1 1 auto;
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+
+    .inputName {
+      width: 100%;
+    }
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+      justify-content: space-between;
+      gap: 10px;
+    }
+  }
+
+}

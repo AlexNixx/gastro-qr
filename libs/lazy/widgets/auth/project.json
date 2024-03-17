@@ -1,0 +1,8 @@
+{
+  "name": "auth",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/lazy/widgets/auth/src",
+  "projectType": "library",
+  "tags": ["scope:libs", "type:auth"],
+  "targets": {}
+}
